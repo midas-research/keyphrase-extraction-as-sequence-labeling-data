@@ -22,7 +22,9 @@ We didn't change the tagging scheme for SE-2017 as they were already in a suitab
 <br>
 
 Where, 
-k<sub>B</sub>
+* k<sub>B</sub> -> B-KEY
+* k<sub>I</sub> -> I-KEY
+* k<sub>O</sub> -> O
 
 
 ## General Dataset Stats
