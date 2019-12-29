@@ -7,12 +7,11 @@ This repository contains only the datasets used in the experiments and their ove
 For more details on how the dataset was created, and the models trained on them,
 please refer to our paper, [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840)
 
-We ran our experiments on three different publicly available keyphrase extraction datasets: 
+We ran our experiments on three different publicly available keyphrase extraction datasets after transforming them into a format suitable for sequence labeling tasks. The formatted datasets are: 
 1. [Inspec](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/tree/master/Inspec) (Hulth 2003), 
 2. [SemEval-2010](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/tree/master/processed_semeval-2010) (Kim et al. 2010) (referred to as SE- 2010), 
 3. [SemEval-2017](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/tree/master/SemEval-2017) (Augenstein et al. 2017) (referred to as SE-2017)
 
-Note: The datasets were transformed as a sequence labeling data and only extractive keyphrases were used.
 
 ## General Dataset Stats
 
