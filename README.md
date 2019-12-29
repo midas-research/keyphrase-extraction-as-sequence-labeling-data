@@ -1,10 +1,7 @@
 # keyphrase-extraction-as-sequence-labeling-data
-Dataset for the paper entitled, Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings.
+Dataset for the paper entitled, [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840). This repository contains only the dataset used in the experiments and its overview.
 
-
-This repository contains only the datasets used in the experiments and their overview
-
-For more details on how the dataset was created, and the models trained on them,
+For more details on how the dataset was created, and the models trained on it,
 please refer to our paper, [Keyphrase Extraction from Scholarly Articles as Sequence Labeling using Contextualized Embeddings](https://arxiv.org/abs/1910.08840)
 
 We ran our experiments on three different publicly available keyphrase extraction datasets after transforming them into a format suitable for sequence labeling tasks. The formatted datasets are: 
