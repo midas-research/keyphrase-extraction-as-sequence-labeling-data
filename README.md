@@ -12,6 +12,9 @@ We ran our experiments on three different publicly available keyphrase extractio
 2. [SemEval-2010](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/tree/master/processed_semeval-2010) (Kim et al. 2010) (referred to as SE- 2010), 
 3. [SemEval-2017](https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/tree/master/SemEval-2017) (Augenstein et al. 2017) (referred to as SE-2017)
 
+We didn't change the tagging scheme for SE-2017 as they were already in a suitable format. We used the following tagging scheme for the other two datasets (Inspec and SE-2010).
+
+
 
 ## General Dataset Stats
 
