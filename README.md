@@ -18,16 +18,37 @@ Note: The datasets were transformed as a sequence labeling data and only extract
 
 <br>
 <p align="center">
-  <img src="" alt="General Dataset Stats"  width="60%"/>
+  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/keyphrase-stats.png" alt="General Dataset Stats"  width="60%"/>
   <br>
 </p>
 <br>
 
 ## BiLSTM vs BiLSTM-CRF (F1-score)
 
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/bltsm-vs-blstm-crf.png" alt="BiLSTM vs BiLSTM-CRF (F1-score)"  width="60%"/>
+  <br>
+</p>
+<br>
+
 ## Fine-tuning vs Pretrained (F1-score)
 
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/fine-tuning-vs-pre-trained.png" alt="Fine-tuning vs Pretrained (F1-score)"  width="60%"/>
+  <br>
+</p>
+<br>
+
 ## Embedding models comparison (F1-score)
+
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/embedding-model-comparison.png" alt="Embedding models comparison (F1-score)"  width="60%"/>
+  <br>
+</p>
+<br>
 
 ## References
 
