@@ -22,7 +22,7 @@ We didn't change the tagging scheme for SE-2017 as they were already in a suitab
 <br>
 
 Where, 
-
+k<sub>B</sub>
 
 
 ## General Dataset Stats
