@@ -14,6 +14,15 @@ We ran our experiments on three different publicly available keyphrase extractio
 
 We didn't change the tagging scheme for SE-2017 as they were already in a suitable format. We used the following tagging scheme for the other two datasets (Inspec and SE-2010).
 
+<br>
+<p align="center">
+  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/tagging-scheme.png" alt="Tagging Scheme"  width="80%"/>
+  <br>
+</p>
+<br>
+
+Where, 
+
 
 
 ## General Dataset Stats
