@@ -18,7 +18,7 @@ Note: The datasets were transformed as a sequence labeling data and only extract
 
 <br>
 <p align="center">
-  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/keyphrase-stats.png" alt="General Dataset Stats"  width="60%"/>
+  <img src="https://github.com/midas-research/keyphrase-extraction-as-sequence-labeling-data/blob/master/keyphrase-stats.png" alt="General Dataset Stats"  width="80%"/>
   <br>
 </p>
 <br>
